@@ -1,11 +1,13 @@
 mod app;
+mod modal_otp;
 
-use app::*;
 use leptos::*;
 
+use crate::app::App;
+
 fn main() {
-    mount_to_body(|cx| {
-        view! { cx,
+    mount_to_body(|| {
+        view! {
             <App/>
         }
     })

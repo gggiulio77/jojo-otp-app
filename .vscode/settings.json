@@ -18,8 +18,13 @@
   "css.validate": false,
   "cSpell.words": [
     "bindgen",
+    "daisyui",
     "fullscreen",
+    "gloo",
     "leptos",
+    "reqwest",
+    "ssid",
+    "tabindex",
     "tailwindcss",
     "tauri"
   ]
