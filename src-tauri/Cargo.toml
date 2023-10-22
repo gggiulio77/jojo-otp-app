@@ -21,7 +21,7 @@ anyhow = "1.0.72"
 jojo-common = { path = "../../jojo-common" }
 log = "0.4.19"
 tauri-plugin-log = { git = "https://github.com/tauri-apps/plugins-workspace" }
-wifi-manager = { path = "../../wifi-manager" }
+jojo-wifi-manager = { path = "../../jojo-wifi-manager" }
 dotenv = "0.15.0"
 load-dotenv = "0.1.2"
 http = "0.2.9"

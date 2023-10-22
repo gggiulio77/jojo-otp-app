@@ -1,5 +1,6 @@
 mod app;
-mod modal_otp;
+mod client_step;
+mod otp_step;
 
 use leptos::*;
 
